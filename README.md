@@ -2,6 +2,8 @@
 
 This project visualizes the phase portrait of a simple pendulum using the Runge-Kutta 4th order (RK4) integration method. It plots the vector field, energy contours, and sample trajectories for various initial conditions.
 
+![Generated Image](RK4OnSimplePendulum.png)
+
 ## Features
 
 - RK4 integration for the nonlinear pendulum equation
