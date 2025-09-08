@@ -4,6 +4,9 @@ This project visualizes the phase portrait of a simple pendulum using the Runge-
 
 ![Generated Image](RK4OnSimplePendulum.png)
 
+# Inspiration
+A wonderful explanation, both practically and through code- https://www.fabriziomusacchio.com/blog/2024-03-17-phase_plane_analysis/
+
 ## Features
 
 - RK4 integration for the nonlinear pendulum equation
